@@ -1,1 +1,0 @@
-print(generate_name())
